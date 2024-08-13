@@ -22,3 +22,26 @@ Frontend: HTML, CSS, Bootstrap, JavaScript
 Backend: PHP
 Database: MySQL 
 Version Control: Git
+
+Usage
+Home Page: View featured products and store history.
+Categories Page: Browse products by category.
+Product Details: View detailed information about each product.
+Shopping Cart: Manage your selected items before purchase.
+Admin Panel: Manage store operations including adding or removing products, managing stock, and applying discounts.
+
+Contributing
+Contributions are welcome! Please follow these steps:
+
+Fork the repository.
+Create a new branch (git checkout -b feature/YourFeature).
+Commit your changes (git commit -m 'Add a new feature').
+Push to the branch (git push origin feature/YourFeature).
+Create a Pull Request.
+
+Contact
+For any inquiries or support, please contact me at:
+
+Email: mohamadfarroukh07@gmail.com
+LinkedIn: MhmdFaroukh
+
